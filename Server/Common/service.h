@@ -1,0 +1,3 @@
+## Add
+
+#define __ENABLE_MONSTER_CONTROLLER__
